@@ -11,6 +11,9 @@ Includes VSCode tasks out of the box for:
   - Debugging firmware integrated in VSCode
   - Monitoring your device over serial
   - Cleaning your build folder
+  
+### Forked note
+- added vscode's IntelliSense `c_cpp_properties` file
 
 ## How To Use This Repo
 
@@ -169,11 +172,7 @@ If you are using a different version of IDF it is very likely that paths in the
 **settings.json** file will need to be altered to match the various toolchain
 versions.
 
-## Donate a Burrito
 
-This information is the result of hours upon hours of research and trial and
-error and is provided free to the community to hopefully help other ESP32 makers.
-That said, if you found this helpful or if it saved you time and you wanna say
-thanks in the form of a burrito, well, I'm not gonna stop you.
 
-[Buy Me a Burrito](https://www.buymeacoffee.com/kevinsidwar) 🌯🌯🌯
+## Donate a Burrito to (makercrew)(https://github.com/makercrew)
+This is just a experimenatl fork repo, thanks to makercrew's hardworks
